@@ -1,1 +1,1 @@
-# s-h-u-b-h-DS-A-assignments
+# DS-A-assignments
