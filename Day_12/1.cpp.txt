@@ -1,0 +1,18 @@
+/*
+Any Base To Decimal
+*/
+
+int main()
+{
+  int n,b,s=0,p=1;
+  cin>>n>>b;
+  while(n!=0)
+  {
+    int d=n%b;
+    n=n/10;
+    s+=d*p;
+    P=P*b;
+  }
+  cout<<s;
+  return 0;
+ }
